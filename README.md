@@ -23,17 +23,7 @@ STEP 7: Use cross tabulation method to quantitatively analyze the relationship b
 STEP 8: Use heatmap method of representation to show relationships between two variables, one plotted on each axis.
 
 ## CODING AND OUTPUT
-     "C:\Users\admin\OneDrive\Desktop\data science\screenshots\Screenshot 2025-04-20 202016.png"
-"C:\Users\admin\OneDrive\Desktop\data science\screenshots\Screenshot 2025-04-20 202025.png"
-"C:\Users\admin\OneDrive\Desktop\data science\screenshots\Screenshot 2025-04-20 202033.png"
-"C:\Users\admin\OneDrive\Desktop\data science\screenshots\Screenshot 2025-04-20 202050.png"
-"C:\Users\admin\OneDrive\Desktop\data science\screenshots\Screenshot 2025-04-20 202104.png"
-"C:\Users\admin\OneDrive\Desktop\data science\screenshots\Screenshot 2025-04-20 202112.png"
-"C:\Users\admin\OneDrive\Desktop\data science\screenshots\Screenshot 2025-04-20 202131.png"
-"C:\Users\admin\OneDrive\Desktop\data science\screenshots\Screenshot 2025-04-20 202209.png"
-"C:\Users\admin\OneDrive\Desktop\data science\screenshots\Screenshot 2025-04-20 201948.png"
-"C:\Users\admin\OneDrive\Desktop\data science\screenshots\Screenshot 2025-04-20 201956.png"
-"C:\Users\admin\OneDrive\Desktop\data science\screenshots\Screenshot 2025-04-20 202006.png"
+    ![Screenshot 2025-04-20 201948](https://github.com/user-attachments/assets/7933e9c8-b758-42ad-a044-1efb79bb0d66)
 
 # RESULT
        Thus we havw performed Exploratory Data Analysis on the given data set.

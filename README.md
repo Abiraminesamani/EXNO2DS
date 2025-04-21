@@ -23,7 +23,11 @@ STEP 7: Use cross tabulation method to quantitatively analyze the relationship b
 STEP 8: Use heatmap method of representation to show relationships between two variables, one plotted on each axis.
 
 ## CODING AND OUTPUT
-    ![Screenshot 2025-04-20 201956](https://github.com/user-attachments/assets/d14e438b-0bf2-4cba-85dd-431ce10b866b)
+  ![Screenshot 2025-04-20 201948](https://github.com/user-attachments/assets/837221e2-b5bb-4b40-95aa-22ecb8b3f990)
+  ![Screenshot 2025-04-20 201956](https://github.com/user-attachments/assets/54be0406-5f71-4153-bf85-0d9be2b2f777)
+  
+
+![Screenshot 2025-04-20 202006](https://github.com/user-attachments/assets/9038254f-0571-4f26-b1ec-63168acdcdef)
 
 
 
